@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'screens/dashboard_screen.dart';
-import 'screens/arithmetic_screen.dart';
-import 'screens/simple_interest_screen.dart';
-import 'screens/area_of_circle_screen.dart';
+import 'package:first_assignment/view//dashboard_screen.dart';
+import 'package:first_assignment/view//arithmetic_screen.dart';
+import 'package:first_assignment/view//simple_interest_screen.dart';
+import 'package:first_assignment/view//area_of_circle_screen.dart';
 
 void main() {
   runApp(FirstAssignmentApp());
